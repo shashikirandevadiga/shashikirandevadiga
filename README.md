@@ -21,7 +21,7 @@
   ### Connect
   - 🌐 [Portfolio](https://shashikirandevadiga.com)
   - 💼 [LinkedIn](https://www.linkedin.com/in/shashikirandevadiga)
-  - 🐦 [Twitter/X](https://x.com/Shashikiran_Dev)
+  - 🐦 [X](https://x.com/Shashikiran_Dev)
   - 📝 [Substack](https://substack.com/@shashikirandevadiga)
 
   ---
