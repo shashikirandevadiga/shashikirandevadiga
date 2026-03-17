@@ -2,7 +2,7 @@
 
 I'm not a developer. I'm a PM who got tired of waiting for solutions that didn't exist — so I started building them.
 
-7+ years in Data Products, Analytics & BI. Currently building at a stealth startup in Seattle.
+7+ years in Data Products & AI. Currently Senior PM at a stealth startup in Seattle.
 
 ## Projects
 
