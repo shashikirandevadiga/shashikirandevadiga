@@ -40,8 +40,14 @@ Claude · Python · Bash · SQL · LangChain · Claude Code · Anthropic API
 
 ## Certifications
 
+**Anthropic**
+- [Introduction to Model Context Protocol](https://verify.skilljar.com/c/gh8r3vfu6hyb) — Anthropic
+- [Introduction to Claude Cowork](https://verify.skilljar.com/c/w7n886idyguf) — Anthropic
 - [Claude Code in Action](https://verify.skilljar.com/c/u9zjn7nc9tiy) — Anthropic
 - [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/u5xvvx3t74vj) — Anthropic
+
+**Product Management**
+- [Certified Scrum Product Owner (CSPO)](https://bcert.me/bc/html/profile.jsp?k=mchkcim) — Scrum Alliance
 
 ---
 
