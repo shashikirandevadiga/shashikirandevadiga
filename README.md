@@ -1,8 +1,8 @@
 # Shashikiran Devadiga
 
-AI Product Manager. I build AI-native tools to solve problems I actually have — then open source them.
+AI Product Manager building AI-native tools that solve real problems — then open sourcing them.
 
-7 years in enterprise tech (EY, Accenture — SAP data migration across 9 countries). Now applying that operational depth to AI product work. The gap I fill: PM who understands how legacy systems actually work and can spec and ship AI products on top of them.
+Focused on agentic systems, multi-agent pipelines, and MCP. I spec it, build it, ship it. Documenting the journey on [Substack](https://substack.com/@shashikirandevadiga).
 
 Based in Seattle. Open to AI PM roles.
 
