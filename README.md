@@ -34,7 +34,7 @@ Learning to build with raw LLM APIs — Anthropic SDK → tool use → LangGraph
 
 ## Stack
 
-Claude · Python · Bash · SQL · LangChain · Claude Code · Anthropic API
+Claude Code · Anthropic API · MCP · Python · Bash · SQL · Tableau · Jupyter
 
 ---
 
