@@ -26,15 +26,16 @@ Based in Seattle. Open to AI PM roles.
 
 ---
 
-## Currently Building
-
-Learning to build with raw LLM APIs — Anthropic SDK → tool use → LangGraph → RAG → multi-agent systems. Each unit produces a working project. Documenting everything in public on [Substack](https://substack.com/@shashikirandevadiga).
-
----
-
 ## Stack
 
-Claude Code · Anthropic API · MCP · Python · Bash · SQL · Tableau · Jupyter
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=flat&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-191919?style=flat&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
