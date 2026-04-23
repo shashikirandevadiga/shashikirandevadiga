@@ -4,7 +4,7 @@ AI Product Manager building AI-native tools that solve real problems — then op
 
 Focused on agentic systems, multi-agent pipelines, and MCP. I spec it, build it, ship it. Documenting the journey on [Substack](https://substack.com/@shashikirandevadiga).
 
-Based in Seattle. Open to AI PM roles.
+Based in US. Open to AI PM roles.
 
 ---
 
@@ -54,4 +54,4 @@ Based in Seattle. Open to AI PM roles.
 
 ## Connect
 
-[Portfolio](https://shashikirandevadiga.com) · [LinkedIn](https://linkedin.com/in/shashikirandevadiga) · [X](https://x.com/Shashikiran_Dev) · [Substack](https://substack.com/@shashikirandevadiga)
+[LinkedIn](https://linkedin.com/in/shashikirandevadiga) · [X](https://x.com/Shashikiran_Dev) · [Substack](https://substack.com/@shashikirandevadiga)
